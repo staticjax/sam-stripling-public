@@ -1,1 +1,1 @@
-# sam-stripling-public
+# Sam Stripling's Public Repository
